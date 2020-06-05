@@ -1,4 +1,4 @@
-1. Retrieving Customer Data
+1.Retrieving Customer Data
 Adventure Works Cycles sells directly to retailers, who then sell products to consumers. Each retailer that is an Adventure Works customer has provided a named contact for all communication from Adventure Works. The sales manager at Adventure Works has asked you to generate some reports containing details of the company’s customers to support a direct sales campaign.
 
 Create a list of all customer contact names that includes the title, first name, middle name (if any), last name, and suffix (if any) of all customers.
